@@ -1,0 +1,1507 @@
+[
+  {
+    "id": "v-mto369x2-wbyu",
+    "createdAt": "5 Sept 2026, 13:23",
+    "timestamp": 1788594817742,
+    "inputType": "IMAGE",
+    "title": "Investigation of ChatGPT Image Sep 5, 2026, 01_19_56 PM.png",
+    "rawContent": "Analyzing uploaded media: ChatGPT Image Sep 5, 2026, 01_19_56 PM.png (1932 KB)",
+    "url": "",
+    "trustScore": 0,
+    "status": "INSUFFICIENT EVIDENCE",
+    "assessment": "TRUTHLENS could not find enough trustworthy information to reach a confident conclusion.",
+    "analysisTime": "4s",
+    "claimsCount": 1,
+    "sourcesCount": 0,
+    "evidenceCount": 0,
+    "whyReasons": [
+      {
+        "type": "warning",
+        "text": "Specific numerical or date claims are stated without citing originating records."
+      }
+    ],
+    "fullExplanation": "TRUTHLENS conducted an multi-tier evidence intelligence pipeline across 1 domain(s). The system isolated 1 checkable claim(s) and retrieved 0 indexed records. 0 pieces of corroborating reporting were identified, alongside 0 conflicting reports.",
+    "recommendation": {
+      "headline": "AWAIT CORROBORATION",
+      "description": "TRUTHLENS could not find enough trustworthy information to reach a confident conclusion.",
+      "nextSteps": [
+        "Do not treat unconfirmed claims as factual records.",
+        "Check back as independent news wire services review the claim."
+      ]
+    },
+    "claims": [
+      {
+        "id": "claim-1",
+        "claimNumber": 1,
+        "text": "Analyzing uploaded media: ChatGPT Image Sep 5, 2026, 01_19_56 PM.png (1932 KB)",
+        "status": "INSUFFICIENT EVIDENCE",
+        "supportingCount": 0,
+        "conflictingCount": 0,
+        "explanation": "No independent primary documentation found in public record.",
+        "sources": [
+          "independent-monitoring.org"
+        ]
+      }
+    ],
+    "evidence": [],
+    "sources": [],
+    "warningSignals": [
+      {
+        "id": "sig-attrib",
+        "type": "CAUTION",
+        "title": "Missing Attribution for Figures",
+        "description": "Specific numerical or date claims are stated without citing originating records."
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "claim-center",
+          "label": "CLAIM",
+          "type": "claim"
+        }
+      ],
+      "edges": [],
+      "balance": {
+        "supports": 0,
+        "contradicts": 0,
+        "context": 0
+      }
+    },
+    "isSaved": false
+  },
+  {
+    "id": "v-mto2qf70-vryg",
+    "createdAt": "5 Sept 2026, 13:11",
+    "timestamp": 1788594078061,
+    "inputType": "URL",
+    "title": "TRUTHLENS — Don't Just Believe It. Check It.",
+    "rawContent": "TRUTHLENS — Don't Just Believe It. Check It.\n\nEvidence-first AI verification and source intelligence platform. See the evidence. Understand the truth.\n\nEvidence-first AI verification and source intelligence platform. See the evidence. Understand the truth.",
+    "url": "http://localhost:3000/verify",
+    "trustScore": 0,
+    "status": "INSUFFICIENT EVIDENCE",
+    "assessment": "TRUTHLENS could not find enough trustworthy information to reach a confident conclusion.",
+    "analysisTime": "3s",
+    "claimsCount": 5,
+    "sourcesCount": 0,
+    "evidenceCount": 0,
+    "whyReasons": [
+      {
+        "type": "warning",
+        "text": "Available evidence is limited in public digital archives."
+      }
+    ],
+    "fullExplanation": "TRUTHLENS conducted an multi-tier evidence intelligence pipeline across 1 domain(s). The system isolated 5 checkable claim(s) and retrieved 0 indexed records. 0 pieces of corroborating reporting were identified, alongside 0 conflicting reports.",
+    "recommendation": {
+      "headline": "AWAIT CORROBORATION",
+      "description": "TRUTHLENS could not find enough trustworthy information to reach a confident conclusion.",
+      "nextSteps": [
+        "Do not treat unconfirmed claims as factual records.",
+        "Check back as independent news wire services review the claim."
+      ]
+    },
+    "claims": [
+      {
+        "id": "claim-1",
+        "claimNumber": 1,
+        "text": "TRUTHLENS — Don't Just Believe It.",
+        "status": "INSUFFICIENT EVIDENCE",
+        "supportingCount": 0,
+        "conflictingCount": 0,
+        "explanation": "No independent primary documentation found in public record.",
+        "sources": [
+          "independent-monitoring.org"
+        ]
+      },
+      {
+        "id": "claim-2",
+        "claimNumber": 2,
+        "text": "Evidence-first AI verification and source intelligence platform.",
+        "status": "INSUFFICIENT EVIDENCE",
+        "supportingCount": 0,
+        "conflictingCount": 0,
+        "explanation": "No independent primary documentation found in public record.",
+        "sources": [
+          "independent-monitoring.org"
+        ]
+      },
+      {
+        "id": "claim-3",
+        "claimNumber": 3,
+        "text": "See the evidence.",
+        "status": "INSUFFICIENT EVIDENCE",
+        "supportingCount": 0,
+        "conflictingCount": 0,
+        "explanation": "No independent primary documentation found in public record.",
+        "sources": [
+          "independent-monitoring.org"
+        ]
+      },
+      {
+        "id": "claim-4",
+        "claimNumber": 4,
+        "text": "Understand the truth.",
+        "status": "INSUFFICIENT EVIDENCE",
+        "supportingCount": 0,
+        "conflictingCount": 0,
+        "explanation": "No independent primary documentation found in public record.",
+        "sources": [
+          "independent-monitoring.org"
+        ]
+      },
+      {
+        "id": "claim-5",
+        "claimNumber": 5,
+        "text": "Evidence-first AI verification and source intelligence platform.",
+        "status": "INSUFFICIENT EVIDENCE",
+        "supportingCount": 0,
+        "conflictingCount": 0,
+        "explanation": "No independent primary documentation found in public record.",
+        "sources": [
+          "independent-monitoring.org"
+        ]
+      }
+    ],
+    "evidence": [],
+    "sources": [],
+    "warningSignals": [
+      {
+        "id": "sig-dates",
+        "type": "CLEAR",
+        "title": "Temporal Reference",
+        "description": "Contains clear date markers enabling targeted chronological verification."
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "claim-center",
+          "label": "CLAIM",
+          "type": "claim"
+        }
+      ],
+      "edges": [],
+      "balance": {
+        "supports": 0,
+        "contradicts": 0,
+        "context": 0
+      }
+    },
+    "isSaved": false
+  },
+  {
+    "id": "v-mto2c0v1-ozr4",
+    "createdAt": "5 Sept 2026, 13:00",
+    "timestamp": 1788593406302,
+    "inputType": "URL",
+    "title": "https://example",
+    "rawContent": "https://example.com/claim-free-iphone-2026",
+    "url": "https://example.com/claim-free-iphone-2026",
+    "trustScore": 59,
+    "status": "NEEDS REVIEW",
+    "assessment": "Available evidence contains unresolved discrepancies between reported figures and primary accounts.",
+    "analysisTime": "4s",
+    "claimsCount": 1,
+    "sourcesCount": 8,
+    "evidenceCount": 8,
+    "whyReasons": [
+      {
+        "type": "positive",
+        "text": "4 verified source(s) corroborate the core assertions."
+      },
+      {
+        "type": "positive",
+        "text": "Information aligns with established independent reporting."
+      },
+      {
+        "type": "warning",
+        "text": "Specific numerical or date claims are stated without citing originating records."
+      }
+    ],
+    "fullExplanation": "TRUTHLENS conducted an multi-tier evidence intelligence pipeline across 1 domain(s). The system isolated 1 checkable claim(s) and retrieved 8 indexed records. 4 pieces of corroborating reporting were identified, alongside 0 conflicting reports.",
+    "recommendation": {
+      "headline": "REVIEW BEFORE SHARING",
+      "description": "Most available evidence supports this claim, but some details warrant verification.",
+      "nextSteps": [
+        "Inspect individual evidence quotes before redistributing.",
+        "Check official publications directly linked in the Evidence Explorer.",
+        "Verify if newer statements have updated earlier disclosures."
+      ]
+    },
+    "claims": [
+      {
+        "id": "claim-1",
+        "claimNumber": 1,
+        "text": "https://example.com/claim-free-iphone-2026",
+        "status": "NEEDS REVIEW",
+        "supportingCount": 0,
+        "conflictingCount": 0,
+        "explanation": "Sources provide differing interpretations or revisions regarding details.",
+        "sources": [
+          "wikipedia.org"
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "ev-yrqg34g",
+        "sourceName": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publishDate": "4 Sept 2026",
+        "excerpt": "\"Hypertext Transfer Protocol Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP). It uses encryption for secure communication over\"",
+        "relationship": "SUPPORTS CLAIM",
+        "credibility": "HIGH",
+        "url": "https://en.wikipedia.org/wiki/HTTPS"
+      },
+      {
+        "id": "ev-ontph23",
+        "sourceName": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publishDate": "2 Sept 2026",
+        "excerpt": "\"The domain names example.com, example.net, example.org, and example.edu are second-level domain names in the Domain Name System of the Internet. They are\"",
+        "relationship": "SUPPORTS CLAIM",
+        "credibility": "HIGH",
+        "url": "https://en.wikipedia.org/wiki/Example.com"
+      },
+      {
+        "id": "ev-z3lo635",
+        "sourceName": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publishDate": "30 Aug 2026",
+        "excerpt": "\"resources that the user can easily access, for example by a mouse click or by tapping the screen in a web browser. HTTP is a request–response protocol in the client–server\"",
+        "relationship": "SUPPORTS CLAIM",
+        "credibility": "HIGH",
+        "url": "https://en.wikipedia.org/wiki/HTTP"
+      },
+      {
+        "id": "ev-bdk9h2w",
+        "sourceName": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publishDate": "25 Mar 2026",
+        "excerpt": "\"request: GET /index.php HTTP/1.1 Host: www.example.org Server response: HTTP/1.1 301 Moved Permanently Location: https://www.example.org/index.asp To fix\"",
+        "relationship": "CONTEXT",
+        "credibility": "HIGH",
+        "url": "https://en.wikipedia.org/wiki/HTTP_301"
+      },
+      {
+        "id": "ev-b1ayj50",
+        "sourceName": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publishDate": "5 Sept 2026",
+        "excerpt": "\"wikipedia.org, which caters to more advanced mobile devices such as the iPhone, Android-based devices, or WebOS-based devices. Several other methods of\"",
+        "relationship": "CONTEXT",
+        "credibility": "HIGH",
+        "url": "https://en.wikipedia.org/wiki/Wikipedia"
+      },
+      {
+        "id": "ev-qwldy4h",
+        "sourceName": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publishDate": "31 Aug 2026",
+        "excerpt": "\"spacex before:2020-08-11 after: – Search for after a specific date, such as iphone after:2007-06-29 @ – Search for the search term on a specific social media\"",
+        "relationship": "CONTEXT",
+        "credibility": "HIGH",
+        "url": "https://en.wikipedia.org/wiki/Google_Search"
+      },
+      {
+        "id": "ev-lurhpua",
+        "sourceName": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publishDate": "5 Sept 2026",
+        "excerpt": "\"2017. Hamburger, Ellis (January 16, 2013). \"Facebook launches free calling for all iPhone users in the US\". The Verge. Vox Media. Archived from the original\"",
+        "relationship": "CONTEXT",
+        "credibility": "HIGH",
+        "url": "https://en.wikipedia.org/wiki/Facebook"
+      },
+      {
+        "id": "ev-5xitq1p",
+        "sourceName": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publishDate": "2 Sept 2026",
+        "excerpt": "\"iPhone is a line of smartphones developed and marketed by Apple that run iOS, the company's own mobile operating system. The first-generation iPhone was\"",
+        "relationship": "SUPPORTS CLAIM",
+        "credibility": "HIGH",
+        "url": "https://en.wikipedia.org/wiki/IPhone"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-shfix3x",
+        "name": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publisherType": "Established Publication / Encyclopedia",
+        "score": 85,
+        "credibilityLevel": "HIGH",
+        "reasons": [
+          {
+            "text": "Identified publisher",
+            "passed": true
+          },
+          {
+            "text": "Recent publication",
+            "passed": true
+          },
+          {
+            "text": "Independent reporting",
+            "passed": true
+          },
+          {
+            "text": "Consistent with other sources",
+            "passed": true
+          }
+        ]
+      }
+    ],
+    "warningSignals": [
+      {
+        "id": "sig-attrib",
+        "type": "CAUTION",
+        "title": "Missing Attribution for Figures",
+        "description": "Specific numerical or date claims are stated without citing originating records."
+      },
+      {
+        "id": "sig-cross",
+        "type": "CLEAR",
+        "title": "Cross-source Consistency",
+        "description": "Core aspects of this claim are indexed across independent sources."
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "claim-center",
+          "label": "CLAIM",
+          "type": "claim"
+        },
+        {
+          "id": "source-a",
+          "label": "SOURCE A",
+          "type": "source",
+          "domain": "wikipedia.org · HIGH",
+          "relationship": "SUPPORTS",
+          "credibility": "HIGH"
+        }
+      ],
+      "edges": [
+        {
+          "from": "source-a",
+          "to": "claim-center",
+          "relationship": "SUPPORTS"
+        }
+      ],
+      "balance": {
+        "supports": 4,
+        "contradicts": 0,
+        "context": 4
+      }
+    },
+    "isSaved": false
+  },
+  {
+    "id": "v-mto21ym2-sdoc",
+    "createdAt": "5 Sept 2026, 12:52",
+    "timestamp": 1788592936827,
+    "inputType": "URL",
+    "title": "fGadget Clock Lite for Windows (Microsoft Store Edition)",
+    "rawContent": "fGadget Clock Lite for Windows (Microsoft Store Edition)\n\nThe \"fGadget Clock Lite\" is a simple desktop clock gadget. You can freely move the app on your desktop dragging the app using your mouse. The app...\n\nAppx4Fun.com © 2025 • Contact Us • Privacy Policy • DMCA Policy",
+    "url": "https://www.appx4fun.com/apps/57414/",
+    "trustScore": 34,
+    "status": "LIKELY MISLEADING",
+    "assessment": "Available evidence contradicts the assertions made in the submitted content.",
+    "analysisTime": "2s",
+    "claimsCount": 3,
+    "sourcesCount": 4,
+    "evidenceCount": 4,
+    "whyReasons": [
+      {
+        "type": "positive",
+        "text": "1 verified source(s) corroborate the core assertions."
+      },
+      {
+        "type": "positive",
+        "text": "Information aligns with established independent reporting."
+      },
+      {
+        "type": "warning",
+        "text": "Specific numerical or date claims are stated without citing originating records."
+      }
+    ],
+    "fullExplanation": "TRUTHLENS conducted an multi-tier evidence intelligence pipeline across 1 domain(s). The system isolated 3 checkable claim(s) and retrieved 4 indexed records. 1 pieces of corroborating reporting were identified, alongside 0 conflicting reports.",
+    "recommendation": {
+      "headline": "DO NOT SHARE — SUBSTANTIAL CONFLICT DETECTED",
+      "description": "Reporting contradicts the core assertion or relies on fabricated attribution.",
+      "nextSteps": [
+        "Refrain from amplifying this narrative on social media.",
+        "Refer to verified rebuttals provided in the Evidence Explorer.",
+        "Provide context if discussing in community forums."
+      ]
+    },
+    "claims": [
+      {
+        "id": "claim-1",
+        "claimNumber": 1,
+        "text": "fGadget Clock Lite for Windows (Microsoft Store Edition)\n\nThe \"fGadget Clock Lite\" is a simple desktop clock gadget.",
+        "status": "SUPPORTED",
+        "supportingCount": 1,
+        "conflictingCount": 0,
+        "explanation": "Verified by independent reporting across 1 corroborating source(s).",
+        "sources": [
+          "wikipedia.org"
+        ],
+        "supportingEvidence": {
+          "title": "Wikipedia Encyclopedia report",
+          "excerpt": "\"recorder, a \"Power Mode\" for higher system performance and exclusive early access Link to Windows support in cooperation with Microsoft. It was launched with\"",
+          "date": "4 Sept 2026",
+          "url": "https://en.wikipedia.org/wiki/One_UI",
+          "publisher": "Wikipedia Encyclopedia"
+        }
+      },
+      {
+        "id": "claim-2",
+        "claimNumber": 2,
+        "text": "You can freely move the app on your desktop dragging the app using your mouse.",
+        "status": "NEEDS REVIEW",
+        "supportingCount": 0,
+        "conflictingCount": 0,
+        "explanation": "Sources provide differing interpretations or revisions regarding details.",
+        "sources": [
+          "wikipedia.org"
+        ]
+      },
+      {
+        "id": "claim-3",
+        "claimNumber": 3,
+        "text": "Appx4Fun.com © 2025 • Contact Us • Privacy Policy • DMCA Policy",
+        "status": "NEEDS REVIEW",
+        "supportingCount": 0,
+        "conflictingCount": 0,
+        "explanation": "Sources provide differing interpretations or revisions regarding details.",
+        "sources": [
+          "wikipedia.org"
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "ev-xtpjnui",
+        "sourceName": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publishDate": "28 Jun 2026",
+        "excerpt": "\"Aul, Gabe (14 May 2015). \"Windows 10 Insider Preview Build 10080 for phone now available\". Windows Experience Blog. Microsoft. Archived from the original\"",
+        "relationship": "CONTEXT",
+        "credibility": "HIGH",
+        "url": "https://en.wikipedia.org/wiki/HTC_One_(M8)"
+      },
+      {
+        "id": "ev-tlk80ms",
+        "sourceName": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publishDate": "30 Aug 2026",
+        "excerpt": "\"primarily for use on tablets. Microsoft also introduced Windows RT, an edition of Windows 8 for use on ARM-based devices. The launch of Windows 8 and RT\"",
+        "relationship": "CONTEXT",
+        "credibility": "HIGH",
+        "url": "https://en.wikipedia.org/wiki/Tablet_computer"
+      },
+      {
+        "id": "ev-dgedk3g",
+        "sourceName": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publishDate": "4 Sept 2026",
+        "excerpt": "\"recorder, a \"Power Mode\" for higher system performance and exclusive early access Link to Windows support in cooperation with Microsoft. It was launched with\"",
+        "relationship": "SUPPORTS CLAIM",
+        "credibility": "HIGH",
+        "url": "https://en.wikipedia.org/wiki/One_UI"
+      },
+      {
+        "id": "ev-339aqxs",
+        "sourceName": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publishDate": "2 Sept 2026",
+        "excerpt": "\"Retrieved 9 June 2025. \"Download Windows 10 IoT Core for Raspberry Pi 2 / 3 from Official Microsoft Download Center\". Microsoft Store – Download Center. Retrieved\"",
+        "relationship": "CONTEXT",
+        "credibility": "HIGH",
+        "url": "https://en.wikipedia.org/wiki/Raspberry_Pi"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-eai1kc9",
+        "name": "Wikipedia Encyclopedia",
+        "domain": "wikipedia.org",
+        "publisherType": "Established Publication / Encyclopedia",
+        "score": 85,
+        "credibilityLevel": "HIGH",
+        "reasons": [
+          {
+            "text": "Identified publisher",
+            "passed": true
+          },
+          {
+            "text": "Recent publication",
+            "passed": true
+          },
+          {
+            "text": "Independent reporting",
+            "passed": true
+          },
+          {
+            "text": "Consistent with other sources",
+            "passed": true
+          }
+        ]
+      }
+    ],
+    "warningSignals": [
+      {
+        "id": "sig-attrib",
+        "type": "CAUTION",
+        "title": "Missing Attribution for Figures",
+        "description": "Specific numerical or date claims are stated without citing originating records."
+      },
+      {
+        "id": "sig-cross",
+        "type": "CLEAR",
+        "title": "Cross-source Consistency",
+        "description": "Core aspects of this claim are indexed across independent sources."
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "claim-center",
+          "label": "CLAIM",
+          "type": "claim"
+        },
+        {
+          "id": "source-a",
+          "label": "SOURCE A",
+          "type": "source",
+          "domain": "wikipedia.org · HIGH",
+          "relationship": "SUPPORTS",
+          "credibility": "HIGH"
+        }
+      ],
+      "edges": [
+        {
+          "from": "source-a",
+          "to": "claim-center",
+          "relationship": "SUPPORTS"
+        }
+      ],
+      "balance": {
+        "supports": 1,
+        "contradicts": 0,
+        "context": 3
+      }
+    },
+    "isSaved": false
+  },
+  {
+    "id": "v-mto1yyko-38lf",
+    "createdAt": "5 Sept 2026, 12:49",
+    "timestamp": 1788592796870,
+    "inputType": "URL",
+    "title": "Aw Base New Inline 2025 At Store Online - Buy Aw Base New Inline 2025 At Online at Best Price in India | Flipkart.com",
+    "rawContent": "Aw Base New Inline 2025 At Store Online - Buy Aw Base New Inline 2025 At Online at Best Price in India | Flipkart.com\n\n\n\nAw Base New Inline 2025 At Store Online - Buy Aw Base New Inline 2025 At Online at Best Price in India | Flipkart.com",
+    "url": "https://www.flipkart.com/aw-base-new-inline-2025-at-store?pageUID=1782478308884&affid=salescueli&affExtParam2=20260905cly3a4nnlpys&affExtParam1=249009",
+    "trustScore": 0,
+    "status": "INSUFFICIENT EVIDENCE",
+    "assessment": "TRUTHLENS could not find enough trustworthy information to reach a confident conclusion.",
+    "analysisTime": "3s",
+    "claimsCount": 1,
+    "sourcesCount": 0,
+    "evidenceCount": 0,
+    "whyReasons": [
+      {
+        "type": "warning",
+        "text": "Specific numerical or date claims are stated without citing originating records."
+      }
+    ],
+    "fullExplanation": "TRUTHLENS conducted an multi-tier evidence intelligence pipeline across 1 domain(s). The system isolated 1 checkable claim(s) and retrieved 0 indexed records. 0 pieces of corroborating reporting were identified, alongside 0 conflicting reports.",
+    "recommendation": {
+      "headline": "AWAIT CORROBORATION",
+      "description": "TRUTHLENS could not find enough trustworthy information to reach a confident conclusion.",
+      "nextSteps": [
+        "Do not treat unconfirmed claims as factual records.",
+        "Check back as independent news wire services review the claim."
+      ]
+    },
+    "claims": [
+      {
+        "id": "claim-1",
+        "claimNumber": 1,
+        "text": "Aw Base New Inline 2025 At Store Online - Buy Aw Base New Inline 2025 At Online at Best Price in India | Flipkart.com\n\n\n\nAw Base New Inline 2025 At Store Online - Buy Aw Base New Inline 2025 At Online at Best Price in India | Flipkart.com",
+        "status": "INSUFFICIENT EVIDENCE",
+        "supportingCount": 0,
+        "conflictingCount": 0,
+        "explanation": "No independent primary documentation found in public record.",
+        "sources": [
+          "independent-monitoring.org"
+        ]
+      }
+    ],
+    "evidence": [],
+    "sources": [],
+    "warningSignals": [
+      {
+        "id": "sig-attrib",
+        "type": "CAUTION",
+        "title": "Missing Attribution for Figures",
+        "description": "Specific numerical or date claims are stated without citing originating records."
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "claim-center",
+          "label": "CLAIM",
+          "type": "claim"
+        }
+      ],
+      "edges": [],
+      "balance": {
+        "supports": 0,
+        "contradicts": 0,
+        "context": 0
+      }
+    },
+    "isSaved": false
+  },
+  {
+    "id": "v-launch-xyz-2026",
+    "createdAt": "12 Feb 2026, 14:22",
+    "timestamp": 1770886920000,
+    "inputType": "TEXT",
+    "title": "India launched XYZ on January 15, 2026, at a cost of ₹500 crore.",
+    "rawContent": "India launched XYZ on January 15, 2026, at a cost of ₹500 crore. The mission was successfully executed by the space authority. The programme is the first of its kind in Asia and was completed ahead of original scheduling.",
+    "trustScore": 82,
+    "status": "GENERALLY SUPPORTED",
+    "assessment": "Available evidence generally supports the main claim, but some information requires additional review.",
+    "analysisTime": "24s",
+    "claimsCount": 6,
+    "sourcesCount": 14,
+    "evidenceCount": 23,
+    "whyReasons": [
+      {
+        "type": "positive",
+        "text": "Multiple sources support the main claim."
+      },
+      {
+        "type": "positive",
+        "text": "Information is consistent with recent reporting."
+      },
+      {
+        "type": "warning",
+        "text": "One source provides conflicting information on total cost."
+      }
+    ],
+    "fullExplanation": "Comprehensive multi-source verification confirms the primary event occurred on January 15, 2026, as reported by major international and state agencies. However, financial audit records indicate an updated expenditure figure of ₹612 crore rather than the initial outlay of ₹500 crore, creating a slight discrepancy in financial assertions.",
+    "recommendation": {
+      "headline": "REVIEW BEFORE SHARING",
+      "description": "Most available evidence supports this claim, but one important detail conflicts with another source.",
+      "nextSteps": [
+        "Check the ₹500 crore figure against the latest budget revision document.",
+        "Note that the launch date and operational status are fully confirmed.",
+        "Share with contextual clarification regarding phase-one vs total program outlay."
+      ]
+    },
+    "claims": [
+      {
+        "id": "c-1",
+        "claimNumber": 1,
+        "text": "India launched XYZ on January 15, 2026.",
+        "status": "SUPPORTED",
+        "supportingCount": 2,
+        "conflictingCount": 0,
+        "explanation": "Official press releases and independent aerospace trackers confirm the launch took place on January 15, 2026, from Sriharikota.",
+        "sources": [
+          "pib.gov.in",
+          "reuters.com",
+          "thehindu.com"
+        ],
+        "supportingEvidence": {
+          "title": "Press Information Bureau Release",
+          "excerpt": "The mission was formally deployed on 15 January 2026 with full telemetric validation.",
+          "date": "15 Jan 2026",
+          "url": "https://pib.gov.in/press-release/xyz-launch-2026",
+          "publisher": "Press Information Bureau"
+        }
+      },
+      {
+        "id": "c-2",
+        "claimNumber": 2,
+        "text": "The project cost ₹500 crore.",
+        "status": "NEEDS REVIEW",
+        "supportingCount": 1,
+        "conflictingCount": 1,
+        "explanation": "One government release lists the figure as ₹500 crore, while a later budget document reports a revised total. The difference has not been reconciled in public reporting.",
+        "sources": [
+          "pib.gov.in",
+          "thehindu.com",
+          "indianexpress.com"
+        ],
+        "supportingEvidence": {
+          "title": "Press Information Bureau release",
+          "excerpt": "\"...total sanctioned outlay for the programme stands at ₹500 crore.\" — 15 Jan 2026",
+          "date": "15 Jan 2026",
+          "url": "https://pib.gov.in/press-release/xyz-cost-outlay",
+          "publisher": "PIB India"
+        },
+        "contradictoryEvidence": {
+          "title": "Budget review document",
+          "excerpt": "\"...revised allocation reported at ₹612 crore following phase two approval.\" — 04 Feb 2026",
+          "date": "04 Feb 2026",
+          "url": "https://finmin.gov.in/budget-review-2026",
+          "publisher": "Ministry of Finance"
+        }
+      },
+      {
+        "id": "c-3",
+        "claimNumber": 3,
+        "text": "The programme is the first of its kind in Asia.",
+        "status": "INSUFFICIENT EVIDENCE",
+        "supportingCount": 0,
+        "conflictingCount": 0,
+        "explanation": "Similar orbital instruments were deployed by JAXA in 2023 and CNSA in 2024, making this claim technically contested without narrower classification criteria.",
+        "sources": [
+          "space-review.org",
+          "isro.gov.in"
+        ]
+      },
+      {
+        "id": "c-4",
+        "claimNumber": 4,
+        "text": "The mission was successfully executed by the space authority.",
+        "status": "SUPPORTED",
+        "supportingCount": 5,
+        "conflictingCount": 0,
+        "explanation": "All orbital telemetry confirms payload insertion with nominal solar panel deployment and downlink acquisition.",
+        "sources": [
+          "reuters.com",
+          "nature.com",
+          "thehindu.com"
+        ]
+      },
+      {
+        "id": "c-5",
+        "claimNumber": 5,
+        "text": "The programme was completed ahead of original scheduling.",
+        "status": "PARTIALLY SUPPORTED",
+        "supportingCount": 2,
+        "conflictingCount": 1,
+        "explanation": "Original 2021 blueprint targeted Q3 2025 before COVID-era deferment, though it beat the revised 2026 target by two weeks.",
+        "sources": [
+          "indianexpress.com",
+          "livemint.com"
+        ]
+      },
+      {
+        "id": "c-6",
+        "claimNumber": 6,
+        "text": "Payload telemetric instruments are functioning within designed operational limits.",
+        "status": "SUPPORTED",
+        "supportingCount": 3,
+        "conflictingCount": 0,
+        "explanation": "First diagnostic beacons were received by ground stations in Byalalu and Svalbard with zero anomalous alerts.",
+        "sources": [
+          "isro.gov.in",
+          "reuters.com"
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "ev-1",
+        "sourceName": "Press Information Bureau",
+        "domain": "pib.gov.in",
+        "publishDate": "15 Jan 2026",
+        "excerpt": "\"The programme was formally launched on 15 January 2026 with a sanctioned outlay of ₹500 crore.\"",
+        "relationship": "SUPPORTS CLAIM",
+        "credibility": "HIGH",
+        "url": "https://pib.gov.in"
+      },
+      {
+        "id": "ev-2",
+        "sourceName": "Budget Review Committee",
+        "domain": "finmin.gov.in",
+        "publishDate": "04 Feb 2026",
+        "excerpt": "\"Revised allocation for the programme is reported at ₹612 crore after phase two approval.\"",
+        "relationship": "CONTRADICTS CLAIM",
+        "credibility": "HIGH",
+        "url": "https://finmin.gov.in"
+      },
+      {
+        "id": "ev-3",
+        "sourceName": "The Hindu",
+        "domain": "thehindu.com",
+        "publishDate": "16 Jan 2026",
+        "excerpt": "\"Officials said the cost figure covers the first phase only; later phases are budgeted separately.\"",
+        "relationship": "CONTEXT",
+        "credibility": "MEDIUM",
+        "url": "https://thehindu.com"
+      },
+      {
+        "id": "ev-4",
+        "sourceName": "Indian Express",
+        "domain": "indianexpress.com",
+        "publishDate": "15 Jan 2026",
+        "excerpt": "\"Launch confirmed on January 15, with independent reporting from three correspondents on site.\"",
+        "relationship": "SUPPORTS CLAIM",
+        "credibility": "HIGH",
+        "url": "https://indianexpress.com"
+      },
+      {
+        "id": "ev-5",
+        "sourceName": "Reuters",
+        "domain": "reuters.com",
+        "publishDate": "15 Jan 2026",
+        "excerpt": "\"The launch went ahead as scheduled, according to two officials with direct knowledge.\"",
+        "relationship": "SUPPORTS CLAIM",
+        "credibility": "HIGH",
+        "url": "https://reuters.com"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-1",
+        "name": "Press Information Bureau",
+        "domain": "pib.gov.in",
+        "publisherType": "Government publisher",
+        "score": 90,
+        "credibilityLevel": "HIGH",
+        "reasons": [
+          {
+            "text": "Identified publisher",
+            "passed": true
+          },
+          {
+            "text": "Recent publication",
+            "passed": true
+          },
+          {
+            "text": "Independent reporting",
+            "passed": true
+          },
+          {
+            "text": "Consistent with other sources",
+            "passed": true
+          }
+        ]
+      },
+      {
+        "id": "src-2",
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "publisherType": "Independent news agency",
+        "score": 88,
+        "credibilityLevel": "HIGH",
+        "reasons": [
+          {
+            "text": "Identified publisher",
+            "passed": true
+          },
+          {
+            "text": "Recent publication",
+            "passed": true
+          },
+          {
+            "text": "Independent reporting",
+            "passed": true
+          },
+          {
+            "text": "Consistent with other sources",
+            "passed": true
+          }
+        ]
+      },
+      {
+        "id": "src-3",
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "publisherType": "National newspaper",
+        "score": 71,
+        "credibilityLevel": "MEDIUM",
+        "reasons": [
+          {
+            "text": "Identified publisher",
+            "passed": true
+          },
+          {
+            "text": "Recent publication",
+            "passed": true
+          },
+          {
+            "text": "Independent reporting",
+            "passed": true
+          },
+          {
+            "text": "Consistent with other sources",
+            "passed": false
+          }
+        ]
+      },
+      {
+        "id": "src-4",
+        "name": "Unattributed forward",
+        "domain": "whatsapp.com",
+        "publisherType": "Unverified messaging channel",
+        "score": 20,
+        "credibilityLevel": "UNKNOWN",
+        "reasons": [
+          {
+            "text": "Identified publisher",
+            "passed": false
+          },
+          {
+            "text": "Recent publication",
+            "passed": false
+          },
+          {
+            "text": "Independent reporting",
+            "passed": false
+          },
+          {
+            "text": "Consistent with other sources",
+            "passed": false
+          }
+        ]
+      }
+    ],
+    "warningSignals": [
+      {
+        "id": "ws-1",
+        "type": "CAUTION",
+        "title": "Outdated Information",
+        "description": "Part of the content refers to figures that were later revised."
+      },
+      {
+        "id": "ws-2",
+        "type": "CAUTION",
+        "title": "Missing Attribution",
+        "description": "The original message does not name where its numbers came from."
+      },
+      {
+        "id": "ws-3",
+        "type": "CLEAR",
+        "title": "Cross-source Consistency",
+        "description": "The core claim appears consistently across independent outlets."
+      },
+      {
+        "id": "ws-4",
+        "type": "CLEAR",
+        "title": "Recent Evidence",
+        "description": "Most supporting evidence was published within the last 30 days."
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "claim-center",
+          "label": "CLAIM",
+          "type": "claim"
+        },
+        {
+          "id": "source-a",
+          "label": "SOURCE A",
+          "type": "source",
+          "domain": "pib.gov.in · High",
+          "relationship": "SUPPORTS",
+          "credibility": "HIGH"
+        },
+        {
+          "id": "source-b",
+          "label": "SOURCE B",
+          "type": "source",
+          "domain": "reuters.com · High",
+          "relationship": "SUPPORTS",
+          "credibility": "HIGH"
+        },
+        {
+          "id": "source-c",
+          "label": "SOURCE C",
+          "type": "source",
+          "domain": "finmin.gov.in · High",
+          "relationship": "CONTRADICTS",
+          "credibility": "HIGH"
+        },
+        {
+          "id": "source-d",
+          "label": "SOURCE D",
+          "type": "source",
+          "domain": "thehindu.com · Medium",
+          "relationship": "CONTEXT",
+          "credibility": "MEDIUM"
+        }
+      ],
+      "edges": [
+        {
+          "from": "source-a",
+          "to": "claim-center",
+          "relationship": "SUPPORTS"
+        },
+        {
+          "from": "source-b",
+          "to": "claim-center",
+          "relationship": "SUPPORTS"
+        },
+        {
+          "from": "source-c",
+          "to": "claim-center",
+          "relationship": "CONTRADICTS"
+        },
+        {
+          "from": "source-d",
+          "to": "claim-center",
+          "relationship": "CONTEXT"
+        }
+      ],
+      "balance": {
+        "supports": 15,
+        "contradicts": 4,
+        "context": 4
+      }
+    },
+    "isSaved": true
+  },
+  {
+    "id": "v-subsidy-scheme",
+    "createdAt": "12 Feb 2026, 09:41",
+    "timestamp": 1770870060000,
+    "inputType": "SCREENSHOT",
+    "title": "Forwarded message about a new subsidy scheme",
+    "rawContent": "Central government has announced instant cash disbursement of ₹25,000 for all youth registered on mobile app XYZ by this Friday.",
+    "trustScore": 54,
+    "status": "NEEDS REVIEW",
+    "assessment": "Official welfare portals list no such direct cash transfer scheme matching these terms, though legitimate solar incentives exist.",
+    "analysisTime": "18s",
+    "claimsCount": 4,
+    "sourcesCount": 9,
+    "evidenceCount": 11,
+    "whyReasons": [
+      {
+        "type": "positive",
+        "text": "Related legitimate energy subsidy schemes exist under official ministries."
+      },
+      {
+        "type": "warning",
+        "text": "The specific URL mentioned points to an unverified private domain."
+      },
+      {
+        "type": "negative",
+        "text": "Press Information Bureau Fact Check unit flagged similar messages as misleading."
+      }
+    ],
+    "fullExplanation": "Investigation reveals that fraudulent actors are manipulating details of authentic rooftop solar subsidy guidelines to harvest citizen registration details via unauthorized APK downloads.",
+    "recommendation": {
+      "headline": "DO NOT SUBMIT PERSONAL DETAILS",
+      "description": "No government notifications verify this cash grant. Do not install unknown apps or enter bank account numbers.",
+      "nextSteps": [
+        "Verify schemes exclusively on official .gov.in domains.",
+        "Check with National Cyber Crime Reporting Portal.",
+        "Refrain from forwarding unverified broadcast messages."
+      ]
+    },
+    "claims": [
+      {
+        "id": "cs-1",
+        "claimNumber": 1,
+        "text": "Government is giving instant ₹25,000 to all youth.",
+        "status": "CONTRADICTED",
+        "supportingCount": 0,
+        "conflictingCount": 4,
+        "explanation": "Press Information Bureau released an explicit advisory stating no such unconditional cash deposit scheme exists.",
+        "sources": [
+          "pib.gov.in",
+          "factcheck.org"
+        ]
+      },
+      {
+        "id": "cs-2",
+        "claimNumber": 2,
+        "text": "Registration deadline is this Friday.",
+        "status": "CONTRADICTED",
+        "supportingCount": 0,
+        "conflictingCount": 2,
+        "explanation": "Artificial urgency is a classic misinformation marker used in social engineering attacks.",
+        "sources": [
+          "cert-in.org.in"
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "ev-s1",
+        "sourceName": "PIB Fact Check",
+        "domain": "pib.gov.in",
+        "publishDate": "11 Feb 2026",
+        "excerpt": "\"A viral message claiming the government is offering ₹25,000 to all youth is fake. No such decision has been made.\"",
+        "relationship": "CONTRADICTS CLAIM",
+        "credibility": "HIGH",
+        "url": "https://pib.gov.in"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-s1",
+        "name": "PIB Fact Check Unit",
+        "domain": "pib.gov.in",
+        "publisherType": "Government Fact Check",
+        "score": 95,
+        "credibilityLevel": "HIGH",
+        "reasons": [
+          {
+            "text": "Identified publisher",
+            "passed": true
+          },
+          {
+            "text": "Recent publication",
+            "passed": true
+          },
+          {
+            "text": "Independent reporting",
+            "passed": true
+          },
+          {
+            "text": "Consistent with other sources",
+            "passed": true
+          }
+        ]
+      }
+    ],
+    "warningSignals": [
+      {
+        "id": "ws-s1",
+        "type": "CAUTION",
+        "title": "Artificial Urgency Detected",
+        "description": "Phrasing pushes users to act immediately before fact-checking."
+      },
+      {
+        "id": "ws-s2",
+        "type": "CAUTION",
+        "title": "Unverified Domain Link",
+        "description": "The domain does not belong to authorized state agencies."
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "claim-center",
+          "label": "CLAIM",
+          "type": "claim"
+        },
+        {
+          "id": "source-a",
+          "label": "PIB Fact Check",
+          "type": "source",
+          "domain": "pib.gov.in",
+          "relationship": "CONTRADICTS",
+          "credibility": "HIGH"
+        },
+        {
+          "id": "source-b",
+          "label": "National Portal",
+          "type": "source",
+          "domain": "india.gov.in",
+          "relationship": "CONTRADICTS",
+          "credibility": "HIGH"
+        }
+      ],
+      "edges": [
+        {
+          "from": "source-a",
+          "to": "claim-center",
+          "relationship": "CONTRADICTS"
+        },
+        {
+          "from": "source-b",
+          "to": "claim-center",
+          "relationship": "CONTRADICTS"
+        }
+      ],
+      "balance": {
+        "supports": 0,
+        "contradicts": 8,
+        "context": 3
+      }
+    },
+    "isSaved": true
+  },
+  {
+    "id": "v-bridge-collapse-video",
+    "createdAt": "10 Feb 2026, 18:03",
+    "timestamp": 1770726780000,
+    "inputType": "VIDEO",
+    "title": "Viral video claiming a bridge collapse in Kerala",
+    "rawContent": "Dramatic footage shared on X and WhatsApp asserting a newly inaugurated bridge collapsed in Kerala due to substandard cement.",
+    "trustScore": 19,
+    "status": "CONTRADICTED",
+    "assessment": "Reverse-video keyframe analysis and local state police verification confirm the footage is from a 2021 industrial demolition in Indonesia.",
+    "analysisTime": "31s",
+    "claimsCount": 3,
+    "sourcesCount": 8,
+    "evidenceCount": 7,
+    "whyReasons": [
+      {
+        "type": "negative",
+        "text": "Reverse image matching links keyframes to an overseas demolition from August 2021."
+      },
+      {
+        "type": "negative",
+        "text": "Kerala Police Cyberdome issued a formal clarification debunking the claim."
+      },
+      {
+        "type": "positive",
+        "text": "Multiple regional fact-checkers cataloged the recycled footage."
+      }
+    ],
+    "fullExplanation": "The submitted video is recycled archival footage of a controlled bridge implosion from East Java, Indonesia, falsely re-captioned to malign contemporary local infrastructure.",
+    "recommendation": {
+      "headline": "DO NOT SHARE — CONFIRMED MISATTRIBUTED FOOTAGE",
+      "description": "This footage is unrelated to any bridge in Kerala. Sharing may contribute to public panic.",
+      "nextSteps": [
+        "Report the viral post on hosting platforms.",
+        "Share the Kerala Police Cyberdome clarification in discussion groups.",
+        "Refrain from redistributing altered video files."
+      ]
+    },
+    "claims": [
+      {
+        "id": "cb-1",
+        "claimNumber": 1,
+        "text": "Bridge in Kerala collapsed recently.",
+        "status": "CONTRADICTED",
+        "supportingCount": 0,
+        "conflictingCount": 5,
+        "explanation": "State PWD confirmed all regional bridge corridors are intact with regular traffic flow.",
+        "sources": [
+          "keralapolice.gov.in",
+          "altnews.in",
+          "thequint.com"
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "ev-b1",
+        "sourceName": "Kerala Police Cyberdome",
+        "domain": "keralapolice.gov.in",
+        "publishDate": "10 Feb 2026",
+        "excerpt": "\"The video circulating on social media regarding a bridge collapse is false and shows old foreign demolition footage.\"",
+        "relationship": "CONTRADICTS CLAIM",
+        "credibility": "HIGH",
+        "url": "https://keralapolice.gov.in"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-b1",
+        "name": "Kerala Police Cyberdome",
+        "domain": "keralapolice.gov.in",
+        "publisherType": "Law Enforcement Agency",
+        "score": 96,
+        "credibilityLevel": "HIGH",
+        "reasons": [
+          {
+            "text": "Identified publisher",
+            "passed": true
+          },
+          {
+            "text": "Recent publication",
+            "passed": true
+          },
+          {
+            "text": "Independent reporting",
+            "passed": true
+          },
+          {
+            "text": "Consistent with other sources",
+            "passed": true
+          }
+        ]
+      }
+    ],
+    "warningSignals": [
+      {
+        "id": "ws-b1",
+        "type": "CAUTION",
+        "title": "Recycled Media Pattern",
+        "description": "Footage from an older event is matched with a new location tag."
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "claim-center",
+          "label": "CLAIM",
+          "type": "claim"
+        },
+        {
+          "id": "source-a",
+          "label": "Kerala Police",
+          "type": "source",
+          "domain": "keralapolice.gov.in",
+          "relationship": "CONTRADICTS",
+          "credibility": "HIGH"
+        },
+        {
+          "id": "source-b",
+          "label": "AltNews",
+          "type": "source",
+          "domain": "altnews.in",
+          "relationship": "CONTRADICTS",
+          "credibility": "HIGH"
+        }
+      ],
+      "edges": [
+        {
+          "from": "source-a",
+          "to": "claim-center",
+          "relationship": "CONTRADICTS"
+        },
+        {
+          "from": "source-b",
+          "to": "claim-center",
+          "relationship": "CONTRADICTS"
+        }
+      ],
+      "balance": {
+        "supports": 0,
+        "contradicts": 7,
+        "context": 0
+      }
+    },
+    "isSaved": true
+  },
+  {
+    "id": "v-supplement-study-url",
+    "createdAt": "09 Feb 2026, 11:15",
+    "timestamp": 1770613500000,
+    "inputType": "URL",
+    "title": "Blog post about a health supplement study",
+    "rawContent": "https://wellness-insider-daily.net/secret-compound-reverses-aging",
+    "url": "https://wellness-insider-daily.net/secret-compound-reverses-aging",
+    "trustScore": 0,
+    "status": "INSUFFICIENT EVIDENCE",
+    "assessment": "TRUTHLENS could not find enough trustworthy scientific information to reach a confident conclusion regarding clinical efficacy.",
+    "analysisTime": "14s",
+    "claimsCount": 2,
+    "sourcesCount": 3,
+    "evidenceCount": 3,
+    "whyReasons": [
+      {
+        "type": "warning",
+        "text": "No peer-reviewed double-blind clinical trials are indexed in PubMed or Lancet."
+      },
+      {
+        "type": "warning",
+        "text": "Source is a single sponsored marketing blog with no institutional accreditation."
+      },
+      {
+        "type": "warning",
+        "text": "Primary assertions rely on anecdotal testimonials without lab verification."
+      }
+    ],
+    "fullExplanation": "The assertions made in the blog post cite a proprietary in-vitro trial that has not undergone peer review. Independent biomedical repositories contain zero cross-validation studies.",
+    "recommendation": {
+      "headline": "CONSULT MEDICAL PROFESSIONALS",
+      "description": "Evidence is inadequate to substantiate clinical health claims. Do not substitute proven treatment plans.",
+      "nextSteps": [
+        "Check ClinicalTrials.gov for registered investigations.",
+        "Discuss unverified supplement dosages with a licensed physician.",
+        "Avoid purchasing products from unregistered retail portals."
+      ]
+    },
+    "claims": [
+      {
+        "id": "cu-1",
+        "claimNumber": 1,
+        "text": "Novel compound reverses biological age by 10 years in clinical trials.",
+        "status": "INSUFFICIENT EVIDENCE",
+        "supportingCount": 0,
+        "conflictingCount": 0,
+        "explanation": "No registered randomized controlled trials in PubMed or WHO trial registry.",
+        "sources": [
+          "pubmed.ncbi.nlm.nih.gov"
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "ev-u1",
+        "sourceName": "National Institutes of Health (PMC)",
+        "domain": "ncbi.nlm.nih.gov",
+        "publishDate": "2025",
+        "excerpt": "\"Preclinical in-vitro observations have not yielded reproducible longevity biomarkers in human cohorts.\"",
+        "relationship": "CONTEXT",
+        "credibility": "HIGH",
+        "url": "https://ncbi.nlm.nih.gov"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-u1",
+        "name": "Wellness Insider Daily",
+        "domain": "wellness-insider-daily.net",
+        "publisherType": "Commercial Blog",
+        "score": 32,
+        "credibilityLevel": "LOW",
+        "reasons": [
+          {
+            "text": "Identified publisher",
+            "passed": false
+          },
+          {
+            "text": "Recent publication",
+            "passed": true
+          },
+          {
+            "text": "Independent reporting",
+            "passed": false
+          },
+          {
+            "text": "Consistent with other sources",
+            "passed": false
+          }
+        ]
+      }
+    ],
+    "warningSignals": [
+      {
+        "id": "ws-u1",
+        "type": "CAUTION",
+        "title": "Uncorroborated Health Claims",
+        "description": "Claims make medical promises without indexed peer-reviewed citations."
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "claim-center",
+          "label": "CLAIM",
+          "type": "claim"
+        },
+        {
+          "id": "source-a",
+          "label": "NIH / PubMed",
+          "type": "source",
+          "domain": "ncbi.nlm.nih.gov",
+          "relationship": "CONTEXT",
+          "credibility": "HIGH"
+        }
+      ],
+      "edges": [
+        {
+          "from": "source-a",
+          "to": "claim-center",
+          "relationship": "CONTEXT"
+        }
+      ],
+      "balance": {
+        "supports": 0,
+        "contradicts": 0,
+        "context": 3
+      }
+    },
+    "isSaved": true
+  }
+]
